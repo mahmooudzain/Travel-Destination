@@ -1,0 +1,15 @@
+.tour-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+}
+
+.tour-div {
+  display: flex;
+  width: 60%;
+  flex-direction: column;
+  gap: 2px;
+  align-items: center;
+}
