@@ -1,6 +1,6 @@
 import React from "react";
 
 function Footcomp() {
-  return <h1>fooot</h1>;
+  return <h1>foooterrr</h1>;
 }
 export default Footcomp;
