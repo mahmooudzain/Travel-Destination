@@ -5,7 +5,7 @@ function Header() {
     <>
       <nav>
         <Link to="/">Home</Link>
-        <Link to="/city/:id">about the city</Link>
+        {/* <Link to="/city/:id">about the city</Link> */}
       </nav>
     </>
   );
